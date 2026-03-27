@@ -3,7 +3,7 @@
 A documentation of my home lab journey as a beginner in IT and networking.
 
 ## Hardware
-- Dell Optiplex 3050
+- Dell Precision 3431
 - Cisco SG200-50P Switch
 - GL.iNet Mango Router
 
